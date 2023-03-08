@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuomas</h1>
-<h3 align="center">A fullstack developer from Finland</h3>
+<h3 align="center">A Software engineering student from Finland</h3>
 
 - 🏫 Studying at [LUT University](https://www.lut.fi/en)
 
